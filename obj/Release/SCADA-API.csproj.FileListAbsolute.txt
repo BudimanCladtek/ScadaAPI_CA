@@ -1,0 +1,454 @@
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\SCADA-API.dll.config
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\SCADA-API.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\SCADA-API.pdb
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csc.exe
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csc.exe.config
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csc.rsp
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csi.exe
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csi.exe.config
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\csi.rsp
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.AppContext.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Console.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Net.Http.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\vbc.exe
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\vbc.exe.config
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\vbc.rsp
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Antlr3.Runtime.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportSource.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.Shared.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.Windows.Forms.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\itextsharp.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Newtonsoft.Json.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Net.Http.Formatting.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Cors.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Helpers.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Http.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Http.WebHost.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Mvc.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Optimization.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Razor.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.Razor.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\WebGrease.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\AxShockwaveFlashObjects.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\ShockwaveFlashObjects.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\stdole.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\itextsharp.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Newtonsoft.Json.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Net.Http.Formatting.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Helpers.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Http.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Http.WebHost.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Mvc.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Optimization.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.Razor.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\System.Web.WebPages.Razor.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Antlr3.Runtime.pdb
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\obj\Release\SCADA-API.csproj.CoreCompileInputs.cache
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\obj\Release\SCADA-API.csproj.CopyComplete
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\obj\Release\SCADA-API.dll
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\obj\Release\SCADA-API.pdb
+C:\Users\Shofiq\Documents\SOURCE CODE\SCADA-API\obj\Release\SCADA-API.csprojAssemblyReference.cache
+C:\Users\IT\Desktop\SCADA-API\bin\SCADA-API.dll.config
+C:\Users\IT\Desktop\SCADA-API\bin\SCADA-API.dll
+C:\Users\IT\Desktop\SCADA-API\bin\SCADA-API.pdb
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csc.exe
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csc.exe.config
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csc.rsp
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csi.exe
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csi.exe.config
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\csi.rsp
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.AppContext.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Console.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.IO.Compression.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Net.Http.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Net.Sockets.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.ValueTuple.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Xml.XPath.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\vbc.exe
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\vbc.exe.config
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\vbc.rsp
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\VBCSCompiler.exe
+C:\Users\IT\Desktop\SCADA-API\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\IT\Desktop\SCADA-API\bin\Antlr3.Runtime.dll
+C:\Users\IT\Desktop\SCADA-API\bin\itextsharp.dll
+C:\Users\IT\Desktop\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\IT\Desktop\SCADA-API\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\IT\Desktop\SCADA-API\bin\Newtonsoft.Json.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Net.Http.Formatting.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Cors.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Helpers.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Http.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Http.WebHost.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Mvc.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Optimization.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Razor.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.Deployment.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.dll
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.Razor.dll
+C:\Users\IT\Desktop\SCADA-API\bin\WebGrease.dll
+C:\Users\IT\Desktop\SCADA-API\bin\stdole.dll
+C:\Users\IT\Desktop\SCADA-API\bin\itextsharp.xml
+C:\Users\IT\Desktop\SCADA-API\bin\Newtonsoft.Json.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Net.Http.Formatting.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Helpers.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Http.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Http.WebHost.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Mvc.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Optimization.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.Razor.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.Deployment.xml
+C:\Users\IT\Desktop\SCADA-API\bin\System.Web.WebPages.Razor.xml
+C:\Users\IT\Desktop\SCADA-API\bin\Antlr3.Runtime.pdb
+C:\Users\IT\Desktop\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\IT\Desktop\SCADA-API\obj\Release\SCADA-API.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\SCADA-API\obj\Release\SCADA-API.csproj.CopyComplete
+C:\Users\IT\Desktop\SCADA-API\obj\Release\SCADA-API.dll
+C:\Users\IT\Desktop\SCADA-API\obj\Release\SCADA-API.pdb
+C:\Users\IT\Desktop\SCADA-API\obj\Release\SCADA-API.csproj.AssemblyReference.cache
+D:\SCADA-API\bin\SCADA-API.dll.config
+D:\SCADA-API\bin\SCADA-API.dll
+D:\SCADA-API\bin\SCADA-API.pdb
+D:\SCADA-API\bin\roslyn\csc.exe
+D:\SCADA-API\bin\roslyn\csc.exe.config
+D:\SCADA-API\bin\roslyn\csc.rsp
+D:\SCADA-API\bin\roslyn\csi.exe
+D:\SCADA-API\bin\roslyn\csi.exe.config
+D:\SCADA-API\bin\roslyn\csi.rsp
+D:\SCADA-API\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SCADA-API\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SCADA-API\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SCADA-API\bin\roslyn\Microsoft.Managed.Core.targets
+D:\SCADA-API\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SCADA-API\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\SCADA-API\bin\roslyn\System.AppContext.dll
+D:\SCADA-API\bin\roslyn\System.Collections.Immutable.dll
+D:\SCADA-API\bin\roslyn\System.Console.dll
+D:\SCADA-API\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\SCADA-API\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\SCADA-API\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SCADA-API\bin\roslyn\System.Globalization.Calendars.dll
+D:\SCADA-API\bin\roslyn\System.IO.Compression.dll
+D:\SCADA-API\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\SCADA-API\bin\roslyn\System.IO.FileSystem.dll
+D:\SCADA-API\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SCADA-API\bin\roslyn\System.Net.Http.dll
+D:\SCADA-API\bin\roslyn\System.Net.Sockets.dll
+D:\SCADA-API\bin\roslyn\System.Reflection.Metadata.dll
+D:\SCADA-API\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\SCADA-API\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\SCADA-API\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\SCADA-API\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\SCADA-API\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\SCADA-API\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\SCADA-API\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\SCADA-API\bin\roslyn\System.ValueTuple.dll
+D:\SCADA-API\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\SCADA-API\bin\roslyn\System.Xml.XmlDocument.dll
+D:\SCADA-API\bin\roslyn\System.Xml.XPath.dll
+D:\SCADA-API\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\SCADA-API\bin\roslyn\vbc.exe
+D:\SCADA-API\bin\roslyn\vbc.exe.config
+D:\SCADA-API\bin\roslyn\vbc.rsp
+D:\SCADA-API\bin\roslyn\VBCSCompiler.exe
+D:\SCADA-API\bin\roslyn\VBCSCompiler.exe.config
+D:\SCADA-API\bin\Antlr3.Runtime.dll
+D:\SCADA-API\bin\BouncyCastle.Crypto.dll
+D:\SCADA-API\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportSource.dll
+D:\SCADA-API\bin\CrystalDecisions.Shared.dll
+D:\SCADA-API\bin\CrystalDecisions.Windows.Forms.dll
+D:\SCADA-API\bin\itextsharp.dll
+D:\SCADA-API\bin\MailKit.dll
+D:\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SCADA-API\bin\Microsoft.Web.Infrastructure.dll
+D:\SCADA-API\bin\MimeKit.dll
+D:\SCADA-API\bin\Newtonsoft.Json.dll
+D:\SCADA-API\bin\System.Buffers.dll
+D:\SCADA-API\bin\System.Memory.dll
+D:\SCADA-API\bin\System.Net.Http.Formatting.dll
+D:\SCADA-API\bin\System.Numerics.Vectors.dll
+D:\SCADA-API\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\SCADA-API\bin\System.Text.Encoding.CodePages.dll
+D:\SCADA-API\bin\System.Threading.Tasks.Extensions.dll
+D:\SCADA-API\bin\System.Web.Cors.dll
+D:\SCADA-API\bin\System.Web.Helpers.dll
+D:\SCADA-API\bin\System.Web.Http.dll
+D:\SCADA-API\bin\System.Web.Http.WebHost.dll
+D:\SCADA-API\bin\System.Web.Mvc.dll
+D:\SCADA-API\bin\System.Web.Optimization.dll
+D:\SCADA-API\bin\System.Web.Razor.dll
+D:\SCADA-API\bin\System.Web.WebPages.Deployment.dll
+D:\SCADA-API\bin\System.Web.WebPages.dll
+D:\SCADA-API\bin\System.Web.WebPages.Razor.dll
+D:\SCADA-API\bin\WebGrease.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\SCADA-API\bin\AxShockwaveFlashObjects.dll
+D:\SCADA-API\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\SCADA-API\bin\ShockwaveFlashObjects.dll
+D:\SCADA-API\bin\stdole.dll
+D:\SCADA-API\bin\BouncyCastle.Crypto.xml
+D:\SCADA-API\bin\itextsharp.xml
+D:\SCADA-API\bin\MailKit.pdb
+D:\SCADA-API\bin\MailKit.xml
+D:\SCADA-API\bin\MimeKit.pdb
+D:\SCADA-API\bin\MimeKit.xml
+D:\SCADA-API\bin\System.Buffers.xml
+D:\SCADA-API\bin\System.Memory.xml
+D:\SCADA-API\bin\System.Numerics.Vectors.xml
+D:\SCADA-API\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\SCADA-API\bin\System.Threading.Tasks.Extensions.xml
+D:\SCADA-API\bin\Newtonsoft.Json.xml
+D:\SCADA-API\bin\System.Net.Http.Formatting.xml
+D:\SCADA-API\bin\System.Web.Helpers.xml
+D:\SCADA-API\bin\System.Web.Http.xml
+D:\SCADA-API\bin\System.Web.Http.WebHost.xml
+D:\SCADA-API\bin\System.Web.Mvc.xml
+D:\SCADA-API\bin\System.Web.Optimization.xml
+D:\SCADA-API\bin\System.Web.Razor.xml
+D:\SCADA-API\bin\System.Web.WebPages.xml
+D:\SCADA-API\bin\System.Web.WebPages.Deployment.xml
+D:\SCADA-API\bin\System.Web.WebPages.Razor.xml
+D:\SCADA-API\bin\Antlr3.Runtime.pdb
+D:\SCADA-API\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SCADA-API\obj\Release\SCADA-API.csproj.AssemblyReference.cache
+D:\SCADA-API\obj\Release\SCADA-API.csproj.CoreCompileInputs.cache
+D:\SCADA-API\obj\Release\SCADA-API.csproj.CopyComplete
+D:\SCADA-API\obj\Release\SCADA-API.dll
+D:\SCADA-API\obj\Release\SCADA-API.pdb
+D:\Source Program\ScadaAPI\bin\SCADA-API.dll.config
+D:\Source Program\ScadaAPI\bin\SCADA-API.dll
+D:\Source Program\ScadaAPI\bin\SCADA-API.pdb
+D:\Source Program\ScadaAPI\bin\roslyn\csc.exe
+D:\Source Program\ScadaAPI\bin\roslyn\csc.exe.config
+D:\Source Program\ScadaAPI\bin\roslyn\csc.rsp
+D:\Source Program\ScadaAPI\bin\roslyn\csi.exe
+D:\Source Program\ScadaAPI\bin\roslyn\csi.exe.config
+D:\Source Program\ScadaAPI\bin\roslyn\csi.rsp
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Source Program\ScadaAPI\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.AppContext.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Collections.Immutable.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Console.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Globalization.Calendars.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.IO.Compression.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.IO.FileSystem.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Net.Http.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Net.Sockets.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Reflection.Metadata.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.ValueTuple.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Xml.XPath.dll
+D:\Source Program\ScadaAPI\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Source Program\ScadaAPI\bin\roslyn\vbc.exe
+D:\Source Program\ScadaAPI\bin\roslyn\vbc.exe.config
+D:\Source Program\ScadaAPI\bin\roslyn\vbc.rsp
+D:\Source Program\ScadaAPI\bin\roslyn\VBCSCompiler.exe
+D:\Source Program\ScadaAPI\bin\roslyn\VBCSCompiler.exe.config
+D:\Source Program\ScadaAPI\bin\Antlr3.Runtime.dll
+D:\Source Program\ScadaAPI\bin\BouncyCastle.Crypto.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.CrystalReports.Engine.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportSource.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.Shared.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.Windows.Forms.dll
+D:\Source Program\ScadaAPI\bin\itextsharp.dll
+D:\Source Program\ScadaAPI\bin\MailKit.dll
+D:\Source Program\ScadaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Source Program\ScadaAPI\bin\Microsoft.Rest.ClientRuntime.dll
+D:\Source Program\ScadaAPI\bin\Microsoft.Web.Infrastructure.dll
+D:\Source Program\ScadaAPI\bin\MimeKit.dll
+D:\Source Program\ScadaAPI\bin\Newtonsoft.Json.dll
+D:\Source Program\ScadaAPI\bin\System.Buffers.dll
+D:\Source Program\ScadaAPI\bin\System.Memory.dll
+D:\Source Program\ScadaAPI\bin\System.Net.Http.Formatting.dll
+D:\Source Program\ScadaAPI\bin\System.Numerics.Vectors.dll
+D:\Source Program\ScadaAPI\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Source Program\ScadaAPI\bin\System.Security.Cryptography.Cng.dll
+D:\Source Program\ScadaAPI\bin\System.Text.Encoding.CodePages.dll
+D:\Source Program\ScadaAPI\bin\System.Threading.Tasks.Extensions.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Cors.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Helpers.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Http.Cors.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Http.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Http.WebHost.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Mvc.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Optimization.dll
+D:\Source Program\ScadaAPI\bin\System.Web.Razor.dll
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.Deployment.dll
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.dll
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.Razor.dll
+D:\Source Program\ScadaAPI\bin\WebGrease.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Source Program\ScadaAPI\bin\AxShockwaveFlashObjects.dll
+D:\Source Program\ScadaAPI\bin\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Source Program\ScadaAPI\bin\ShockwaveFlashObjects.dll
+D:\Source Program\ScadaAPI\bin\stdole.dll
+D:\Source Program\ScadaAPI\bin\BouncyCastle.Crypto.xml
+D:\Source Program\ScadaAPI\bin\itextsharp.xml
+D:\Source Program\ScadaAPI\bin\MailKit.pdb
+D:\Source Program\ScadaAPI\bin\MailKit.xml
+D:\Source Program\ScadaAPI\bin\MimeKit.pdb
+D:\Source Program\ScadaAPI\bin\MimeKit.xml
+D:\Source Program\ScadaAPI\bin\System.Buffers.xml
+D:\Source Program\ScadaAPI\bin\System.Memory.xml
+D:\Source Program\ScadaAPI\bin\System.Net.Http.Formatting.xml
+D:\Source Program\ScadaAPI\bin\System.Numerics.Vectors.xml
+D:\Source Program\ScadaAPI\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Source Program\ScadaAPI\bin\System.Security.Cryptography.Cng.xml
+D:\Source Program\ScadaAPI\bin\System.Threading.Tasks.Extensions.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Http.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Http.Cors.xml
+D:\Source Program\ScadaAPI\bin\Newtonsoft.Json.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Helpers.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Http.WebHost.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Mvc.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Optimization.xml
+D:\Source Program\ScadaAPI\bin\System.Web.Razor.xml
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.xml
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.Deployment.xml
+D:\Source Program\ScadaAPI\bin\System.Web.WebPages.Razor.xml
+D:\Source Program\ScadaAPI\bin\Antlr3.Runtime.pdb
+D:\Source Program\ScadaAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.csproj.AssemblyReference.cache
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.csproj.ResolveComReference.cache
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.csproj.CoreCompileInputs.cache
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.csproj.CopyComplete
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.dll
+D:\Source Program\ScadaAPI\obj\Release\SCADA-API.pdb
